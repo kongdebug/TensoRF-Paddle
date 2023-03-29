@@ -1,0 +1,7 @@
+paddle-lpips
+scikit-image
+opencv-python
+configargparse
+imageio-ffmpeg
+plyfile
+tqdm
